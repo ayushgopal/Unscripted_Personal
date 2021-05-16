@@ -6,6 +6,7 @@ Link to my Iris based learning - https://colab.research.google.com/drive/1-vCYsU
 
 Link to my linear regression learning-https://colab.research.google.com/drive/1KZ_5nbO9cbreDDCP-XLRhp9RojdQwcU9
 
-Link to neural_nets(image processing notebook) not my orignal as it was not well documented-https://colab.research.google.com/drive/1In9ZkCZjnb_6QgrnhvVT4ppf5AyKASik
+Link to neural_nets(image processing notebook) not my orignal as it was not well documented-https://colab.research.google.com/drive/1In9ZkCZjnb_6QgrnhvVT4ppf5AyKASik 
+credits-udemy python machine learning bootcamp course instructors
 
 
