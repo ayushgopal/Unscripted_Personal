@@ -10,9 +10,11 @@ Link to my linear regression learning-https://colab.research.google.com/drive/1K
 Link to neural_nets(image processing notebook) not my orignal as it was not well documented-https://colab.research.google.com/drive/1In9ZkCZjnb_6QgrnhvVT4ppf5AyKASik 
 credits-udemy python machine learning bootcamp course instructors
 
-## Final Trained Machine Learning Model
+## Fine Tuned & Trained Machine Learning Model
 Drive link to download the final trained model(details uploded in config.json) -https://drive.google.com/file/d/1zqNh9ICvqioO9EbSVUkpWgPW9zj1xjrr/view?usp=sharing
+
 Colab link to the model training page- https://colab.research.google.com/drive/1LQ07oF4HTFeMbMdR1e4_nyMgO6rgyy7x?authuser=1#scrollTo=WD_vnyLXZQzD
+
 Colab link to the final output page- https://colab.research.google.com/drive/1rbGCIYtpTbugEuZfZrC9TdotsP1tGcg8?usp=sharing
 
 
