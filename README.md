@@ -17,6 +17,8 @@ Colab link to the model training page- https://colab.research.google.com/drive/1
 
 Colab link to the final output page- https://colab.research.google.com/drive/1rbGCIYtpTbugEuZfZrC9TdotsP1tGcg8?usp=sharing
 
+## WandB Generated Model Trining Summary
+
 
 ![image](https://user-images.githubusercontent.com/55878159/126155825-d8d77c39-5633-4be6-9146-7bbc9556167b.png)
 
