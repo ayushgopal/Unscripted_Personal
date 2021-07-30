@@ -15,7 +15,8 @@ Drive link to download the final trained model(details uploded in config.json) -
 
 Colab link to the model training page- https://colab.research.google.com/drive/1LQ07oF4HTFeMbMdR1e4_nyMgO6rgyy7x?authuser=1#scrollTo=WD_vnyLXZQzD
 
-Colab link to the final output page- https://colab.research.google.com/drive/1rbGCIYtpTbugEuZfZrC9TdotsP1tGcg8?usp=sharing
+Colab link to the final output page- https://colab.research.google.com/drive/1y57cThbylx13lHpznOp4f6dz3P7kCl73?usp=sharing
+
 
 ## WandB Generated Model Training Summary
 
